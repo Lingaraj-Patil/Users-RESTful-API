@@ -199,3 +199,18 @@ curl -X DELETE http://localhost:3000/users/3
 ---
 
 ## Screenshot
+
+![Screenshot 2025-03-12 233141](https://github.com/user-attachments/assets/30406023-64be-4408-9221-0058ab89a57b)
+
+![Screenshot 2025-03-12 233200](https://github.com/user-attachments/assets/4971bef0-faa8-4288-aaac-9590b6169de3)
+
+![Screenshot 2025-03-12 233255](https://github.com/user-attachments/assets/3e780186-0fb5-42d4-a1f5-06f6fd4c2e25)
+
+![Screenshot 2025-03-12 233412](https://github.com/user-attachments/assets/0b64e12f-cc6a-47e6-9db2-1e8c92f7bc84)
+
+![Screenshot 2025-03-12 233432](https://github.com/user-attachments/assets/826de4ed-6323-490e-8833-85dd731651dc)
+
+
+
+
+
